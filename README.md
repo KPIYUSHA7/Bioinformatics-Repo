@@ -2,10 +2,7 @@
 
 ## Contains the codes performing bioinformatics tasks
 
-### 1) retrieve_structures.py 
-    Retrieves structures from PUBCHEM database using python
-
-### 2) final_sentiment_analysis.py
+### 1) final_sentiment_analysis.py
 
 Parsing Nature.com article to learn attributes of the article and perform Sentiment analysis using TextBlob, NLTK, Newspaper3k Libraries
 
@@ -19,3 +16,6 @@ Entire text of the article
 Keywords in the article
 Rough Summary Of the article
 Sentiment Polarity Value and analysis of sentiment (positive, negative or neutral) The TextBlob's sentiment property returns a Sentiment object. The polarity indicates sentiment with a value from -1.0 (negative) to 1.0 (positive) with 0.0 being neutral. The subjectivity is a value from 0.0 (objective) to 1.0 (subjective). (Source: https://www.pythonprogramming.in/sentiment-analysis-using-textblob.html)
+
+### 2) retrieve_structures.py 
+    Retrieves structures from PUBCHEM database using python
