@@ -1,10 +1,11 @@
 # Bioinformatics-Repo
-Contains the codes performing bioinformatics tasks
 
-1) retrieve_structures.py 
+## Contains the codes performing bioinformatics tasks
+
+### 1) retrieve_structures.py 
     Retrieves structures from PUBCHEM database using python
 
-2) final_sentiment_analysis.py
+### 2) final_sentiment_analysis.py
 
 Parsing Nature.com article to learn attributes of the article and perform Sentiment analysis using TextBlob, NLTK, Newspaper3k Libraries
 
