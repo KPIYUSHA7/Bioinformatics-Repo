@@ -6,6 +6,8 @@
 
 "BIOPANDAS" python library allows bioinformaticians to work with PDB and MOL2 molecular structures in Pandas dataframes. A reliable and efficient source depicting the usage is Biopandas official documentation : http://rasbt.github.io/biopandas/
 
+The structure of novel coronavirus spike receptor-binding domain complexed with its receptor ACE2 was analyzed using Biopandas library in Python
+
 ### 2) final_sentiment_analysis.py
 
 Parsing Nature.com article to learn attributes of the article and perform Sentiment analysis using TextBlob, NLTK, Newspaper3k Libraries
