@@ -19,3 +19,7 @@ Sentiment Polarity Value and analysis of sentiment (positive, negative or neutra
 
 ### 2) retrieve_structures.py 
     Retrieves structures from PUBCHEM database using python
+
+### 3) biopandas_structure.py
+
+"BIOPANDAS" python library allows bioinformaticians to work with PDB and MOL2 molecular structures in Pandas dataframes. A reliable and efficient source depicting the usage is Biopandas official documentation : http://rasbt.github.io/biopandas/
