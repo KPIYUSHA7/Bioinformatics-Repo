@@ -5,6 +5,7 @@ Contains the codes performing bioinformatics tasks
     Retrieves structures from PUBCHEM database using python
 
 2) final_sentiment_analysis.py
+
 Parsing Nature.com article to learn attributes of the article and perform Sentiment analysis using TextBlob, NLTK, Newspaper3k Libraries
 
 The inspiration for this program was from this tutorial. Do give this a read : https://levelup.gitconnected.com/sentiment-analysis-using-machine-learning-python-9122e03f8f7b
