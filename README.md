@@ -23,6 +23,6 @@ Keywords in the article
 Rough Summary Of the article
 Sentiment Polarity Value and analysis of sentiment (positive, negative or neutral) The TextBlob's sentiment property returns a Sentiment object. The polarity indicates sentiment with a value from -1.0 (negative) to 1.0 (positive) with 0.0 being neutral. The subjectivity is a value from 0.0 (objective) to 1.0 (subjective). (Source: https://www.pythonprogramming.in/sentiment-analysis-using-textblob.html)
 
-### 3) retrieve_structures.py 
+### 3) structure.ipynb 
     Retrieves structures from PUBCHEM database using python
 
