@@ -26,3 +26,5 @@ Sentiment Polarity Value and analysis of sentiment (positive, negative or neutra
 ### 3) structure.ipynb 
     Retrieves structures from PUBCHEM database using python
 
+### 4) FASTA Sequence Analyzer
+    Statistical analysis of uploaded FASTA file along with DNA -> RNA and RNA -> Protein conversion; Reverse Complementarity option also provided
